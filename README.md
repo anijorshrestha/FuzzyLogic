@@ -1,5 +1,5 @@
-# FuzzyLogic
-Implementation of Fuzzy Logic using MATLAB
+# COVID-Data-Visualisation
+Trying to visulaize COVID data
 
 ## Part of work I have been doing.
 1. Upload .ktx file and .otx file
