@@ -7,6 +7,6 @@ Implementation of Fuzzy logic using MATLAB
 3. Go over other feature to see changes
 4. Save it in your project directory.
 
-##This is how it looks like
+## This is how it looks like
 
 <img src ="Main.PNG" width ="700"/>
