@@ -1,6 +1,6 @@
 # FuzzyLogic
 
-## Part of work I have been doing. Fuzzy logic implementation
+## Part of work I have been doing. Fuzzy logic implementation using MATLAB
 1. Upload .ktx file and .otx file
 2. Hit 'Start' to see the graph for all class and membership value (µ)
 3. Go over other feature to see changes
